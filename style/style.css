@@ -12,7 +12,7 @@ body {
 }
 
 #showcase {
-    background-image: url('../images/Kaffeerad_Unschärfe.jpg');
+    background-image: url('../images/Kaffeerad_gauss.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -32,6 +32,20 @@ body {
 
 #showcase p {
     font-size: 20px;
+}
+
+.zeit {
+    background-color: #1b170a;
+    padding: 5px 10px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.standort {
+    background-color: #1b170a;
+    margin-top: 10px;
+    font-size: 18px;
+    padding: 5px 10px
 }
 
 #showcase .button {
