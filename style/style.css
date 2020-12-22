@@ -81,6 +81,13 @@ body {
     width: 100%;
 }
 
+.impress {
+    background-color: #d6d1bea1;
+    padding: 5px 10px;
+    font-size: 12px;
+    width: 100
+}
+
 #showcase .button {
     font-size: 18px;
     text-decoration: none;
